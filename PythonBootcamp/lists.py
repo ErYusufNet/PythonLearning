@@ -3,9 +3,7 @@ collection = birden fazla değeri saklamak için kullanılan tek bir "değişken
 
 lists = [] sıralı ve değiştirilebilir. Kopya değerlere (aynı eleman) izin verir.
 
-set = {} sırasız ve değiştirilemez (ancak eleman ekleme/silme yapılabilir). Kopya elemanlara izin vermez.
 
-tuple = () sıralı ve değiştirilemez. Kopya değerlere izin verir. Listeye göre daha hızlı çalışır.
 
 '''
 #list
