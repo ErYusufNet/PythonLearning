@@ -15,6 +15,7 @@ print("\n----Your Order----")
 for drink in drinks:
     print(drink)
 print(f"Total price: €{total:.2f}")
+#
 
 
 
